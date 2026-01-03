@@ -1,9 +1,9 @@
 {
-  "pageAccessToken": "",
+  "pageAccessToken": "EAAXmpyadKLMBQSRn27vrBSeCwWKsqGCNseK4TN3eHWXa9fTgfJrZAnlKpQImQJatictK5oJsBaSdL4QBlZC6ve81b00LkObZCLastZCdcEMBDWpVHoBZC6jWP5hZBTlizni2aCWYcYmxKjIQcJmt1TkdohhKAvO1Pq4spChqlpPyug2cwDkoa9qKxrhju3KKqAdeEx6tNFS7x7kErtD33zvprtZADthZBDhJBcklB92PZAy8ZD",
   "verifyToken": "pagebot",
   "pageId": "",
   "port": 3000,
-  "prefix": "/",
-  "botName": "Nayan Page Bot",
-  "adminUIDs": ["33053051884340425"]
+  "prefix": ".",
+  "botName": "Raza Page Bot",
+  "adminUIDs": ["100004370672067"]
 }
